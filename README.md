@@ -211,5 +211,5 @@ All modules and packages used are part of Python's standard library so there sho
 in your virtual environment. If for some reason you are missing any of the dependencies, you can run the following 
 command to install the dependencies in your virtual environment:
 ```commandline
-pip install -r requirements. txt
+python -m pip install -r requirements. txt
 ```
